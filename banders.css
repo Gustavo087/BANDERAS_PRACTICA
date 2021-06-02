@@ -1,0 +1,65 @@
+* {
+    background-color: gray;
+}
+
+section {
+    width: 600px;
+    height: 300px;
+}
+
+section p#aa {
+    background-color: darkgreen;
+    width: 200px;
+    height: 300px;
+}
+
+section p#bb {
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: -315.85px;
+}
+
+img#portugal1 {
+    background-color: transparent;
+    margin-left: 137.5px;
+    margin-top: 95px;
+    width: 125px;
+}
+
+img#portugal2 {
+    background-color: transparent;
+    width: 150px;
+    margin-left: -75px;
+    margin-top: 110px;
+}
+
+section p#a {
+    background-color: darkgreen;
+    width: 200px;
+    height: 300px;
+}
+
+section p#b {
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: -315.8px;
+}
+
+section p#c {
+    background-color: red;
+    width: 200px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: -315.8px;
+}
+
+img#aguila {
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 100px;
+}
